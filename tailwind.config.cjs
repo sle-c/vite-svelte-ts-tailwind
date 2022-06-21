@@ -1,4 +1,4 @@
-export default {
+module.exports = {
   darkmode: true,
   content: [
     "./index.html",

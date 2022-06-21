@@ -7,5 +7,7 @@ export default defineConfig({
   css: {
     postcss,
   },
-  plugins: [svelte()]
+  plugins: [svelte({
+    /* plugin options */
+  })]
 })
